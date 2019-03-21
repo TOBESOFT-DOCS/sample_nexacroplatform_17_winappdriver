@@ -1,6 +1,3 @@
-# sample_nexacroplatform_17_winappdriver
-넥사크로플랫폼 17에서 지원하는 WinAppDriver 인터페이스 기능을 설명하기 위한 샘플 코드입니다.
-
 # WinAppDriver로 단위 테스트 실행하기
 넥사크로플랫폼 17 고급 개발 가이드 문서 내 포함된 "WinAppDriver로 단위 테스트 실행하기" 콘텐츠를 실행하기 위한 샘플, 데모를 제공합니다.
 
